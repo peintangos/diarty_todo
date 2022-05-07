@@ -82,7 +82,7 @@ class _TabContainerWidget extends State<TabContainerWidget> {
                       ),
                     );
                   }).whenComplete(() {
-                    
+
                 Diary newDiary = Diary(name, title, subTitle);
 
               })
